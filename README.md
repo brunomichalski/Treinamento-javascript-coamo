@@ -1,2 +1,3 @@
 # Treinamento-javascript-coamo
- Treinamento em javascript
+
+Treinamento de Javascript da empresa Coamo aplicado pela Universidade Tecnológica Federal do Paraná-UTFPR.
